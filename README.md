@@ -116,9 +116,7 @@ npm run dev
 
 ---
 
-## Team Cosmic
 
-[![Hitesh P](https://img.shields.io/badge/hitesh%20p-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-p-aa55662a3)
 
 <p align="center">Built with ❤️ for connecting student innovation with investment opportunities</p>
 # CampusFounder
